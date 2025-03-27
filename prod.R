@@ -1,5 +1,5 @@
 library(pacman)
 p_load(
-  tidyverse,gt
+  tidyverse,gt,survminer
 )
 
